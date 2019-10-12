@@ -11,6 +11,7 @@ contributors:
 - [Pierre Karashchuk](mailto:krchtchk@gmail.com)
 - Alex Busenius
 - [Mark Gillespie](mailto:mark.gillespie@gmail.com)
+- Justin Woody
 
 License: **GPL v3**
 
@@ -156,7 +157,7 @@ In order to build some dependencies, you need for sure a working building system
     ```bash
     sudo apt-get install python-pip python-virtualenv virtualenvwrapper
     mkvirtualenv -p /usr/bin/python2 gmusicproxy
-    git clone https://github.com/diraimondo/gmusicproxy.git
+    git clone https://github.com/gmusicproxy/gmusicproxy.git
     cd gmusicproxy
     pip install -r requirements.txt
     ```
