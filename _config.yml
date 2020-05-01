@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
+theme: jekyll-theme-slate
+
+github:
+  repository_url: https://github.com/gmusicproxy/gmusicproxy
+
+title: GMusic Proxy
+description: Stream Google Play Music To Any Device
+
